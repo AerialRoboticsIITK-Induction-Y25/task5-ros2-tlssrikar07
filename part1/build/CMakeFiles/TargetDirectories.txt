@@ -1,3 +1,0 @@
-/home/srikar/part1/build/CMakeFiles/drone_sim.dir
-/home/srikar/part1/build/CMakeFiles/edit_cache.dir
-/home/srikar/part1/build/CMakeFiles/rebuild_cache.dir
